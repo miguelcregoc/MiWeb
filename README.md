@@ -10,5 +10,5 @@ Los pasos a seguir para eliminarlos fueron:
 3. hacer el commit
 4. pushear los cambios
 
-Parece una tonteria me dio mas errores de los que parece por estar en la rama que no era, que git no apuntase a lo que tenia que apuntar etc. 
+Parece una tonteria pero me dio mas errores de los que parece por estar en la rama que no era, que git no apuntase a lo que tenia que apuntar etc. 
 Por eso dejo esta documentacion para leerla si me pasa otra vez
